@@ -1,0 +1,45 @@
+.row{
+    margin-top: 50px;
+    height: 150px;
+    width: 101%;
+    border: 1px;
+    background-color: #00d6f2;
+    }
+    .col{
+      margin-top: 10px;
+      margin-left: 25px;
+      height: 130px;
+      width: 1080px;
+      border: 1px solid white;
+      background-color: green;
+      }
+        .samba{
+          margin-top: 15px;
+          margin-left: -1px;
+          height: 100px;
+          width: 700px;
+          border: 1px solid white;
+          background-color: blue;
+          }
+          .mamba{
+            margin-top: 10px;
+            margin-left: -3px;
+            height: 80px;
+            width: 400px;
+            border: 1px solid white;
+            background-color: red;
+            }
+            .jamba{
+              margin-left: -3px;
+              height: 60px;
+              width: 200px;
+              border: 1px solid white;
+              background-color: yellow;
+              }
+              .ramba{
+                margin-left: -3px;
+                height: 40px;
+                width: 40px;
+                border: 1px solid white;
+                background-color: purple;
+                }
